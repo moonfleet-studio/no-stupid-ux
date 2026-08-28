@@ -1,9 +1,9 @@
 ---
-name: state-separated-ui-design
+name: no-stupid-ux
 description: Use when designing, reviewing, or implementing UI screens with multiple possible states, confirmations, toasts, undo, empty states, loading, errors, or destructive actions. Helps avoid showing mutually exclusive states in one frame unless explicitly making a state matrix or storyboard.
 ---
 
-# State-Separated UI Design
+# No Stupid UX
 
 Keep each screen, frame, or implementation branch coherent as one user-observable state.
 
