@@ -1,0 +1,3 @@
+interface:
+  display_name: "State-Separated UI Design"
+  short_description: "Keep UI states clearly separate"
